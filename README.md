@@ -1,2 +1,3 @@
 # JupyterEjemplos
-Ejemplos para Jupyter
+
+Este repositorio es para subir ejemplos de Jupyter (Python).

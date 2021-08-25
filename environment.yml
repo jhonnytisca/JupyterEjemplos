@@ -1,0 +1,7 @@
+name: jupyter-ejemplos
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - ipywidgets
